@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brief",
+  "description": "Turn a short request into a clear engineering brief, critique it, get your approval, and only then carry it out.",
+  "owner": {
+    "name": "Peter Ferak"
+  },
+  "plugins": [
+    {
+      "name": "brief",
+      "description": "Turn a short request into a clear engineering brief, critique it, get your approval, and only then carry it out.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

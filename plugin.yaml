@@ -1,0 +1,6 @@
+name: brief
+version: 1.0.0
+description: Hermes Agent plugin bundling the brief skill.
+author: Peter Ferak
+provides_skills:
+  - brief

@@ -1,0 +1,5 @@
+{
+  "name": "brief",
+  "version": "1.0.0",
+  "description": "Turn a one-line request into a grounded engineering brief with open questions, have a subagent critique it, and run it only after you approve."
+}

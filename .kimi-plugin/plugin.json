@@ -1,0 +1,12 @@
+{
+  "name": "brief",
+  "description": "Turn a one-line request into a grounded engineering brief with open questions, have a subagent critique it, and run it only after you approve.",
+  "author": {
+    "name": "Peter Ferak"
+  },
+  "interface": {
+    "displayName": "Brief",
+    "shortDescription": "Brief, critique, approve, then build."
+  },
+  "skills": "./skills/"
+}
